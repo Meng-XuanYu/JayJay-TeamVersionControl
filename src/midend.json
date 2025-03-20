@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "content": "程序员甲问乙：'你知道世界上有多少种人吗？'\n乙回答：'有10种——懂二进制的和不懂的。'",
+            "language": "机器码"
+        },
+        {
+            "content": "程序员最常用的Git命令是git commit -m 'Fix bug'，然后祈祷‘bug真的消失了’。",
+            "language": "Git脚本语言"
+        }
+    ]
+}
